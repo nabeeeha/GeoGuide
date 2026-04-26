@@ -1,1 +1,11 @@
 .env
+users.db
+vectorstore*.pkl
+extra/*.pkl
+myenv/
+__pycache__/
+*.pyc
+*.csv
+.DS_Store
+.vscode/
+.streamlit/
